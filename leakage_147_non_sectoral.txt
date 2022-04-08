@@ -1,0 +1,189 @@
+lp = 146, mp = -136, l = 0140, m = -140
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0019
+leakrr = -5.0045861e-07, leakri = -5.0045861e-07, leakhr = 4.7598928e-07, leakhi = 4.7598928e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -5.004586114409904e-07
+horleaks = (leakhr+pm*leakhi)/2*csphase = 4.759892817673972e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -139
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0018
+leakrr = 3.6687008e-12, leakri = 3.6687008e-12, leakhr = -8.8813790e-11, leakhi = -8.8813790e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 3.668700759851262e-12
+horleaks = (leakhr+pm*leakhi)/2*csphase = -8.881378965597264e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -138
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0017
+leakrr = 8.8123244e-07, leakri = 8.8123244e-07, leakhr = 2.7749780e-07, leakhi = 2.7749780e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 8.812324381324288e-07
+horleaks = (leakhr+pm*leakhi)/2*csphase = 2.7749780429076054e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -137
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0016
+leakrr = 2.3976092e-11, leakri = 2.3976092e-11, leakhr = -6.7294226e-11, leakhi = -6.7294226e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 2.397609194515482e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -6.729422574736077e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -136
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0015
+leakrr = 5.0173156e-07, leakri = 5.0173156e-07, leakhr = 5.3792513e-07, leakhi = 5.3792513e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 5.017315629629593e-07
+horleaks = (leakhr+pm*leakhi)/2*csphase = 5.379251319936884e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -135
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0014
+leakrr = 8.9896132e-11, leakri = 8.9896132e-11, leakhr = -8.2675793e-13, leakhi = -8.2675793e-13
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 8.98961322048919e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -8.267579329479524e-13
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -134
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0013
+leakrr = -3.2961823e-05, leakri = -3.2961823e-05, leakhr = -5.6474775e-05, leakhi = -5.6474775e-05
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -3.29618233081419e-05
+horleaks = (leakhr+pm*leakhi)/2*csphase = -5.64747751923278e-05
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -133
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0012
+leakrr = -2.9452357e-11, leakri = -2.9452357e-11, leakhr = 2.5737905e-11, leakhi = 2.5737905e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -2.9452357219739156e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = 2.573790486293248e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -132
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0011
+leakrr = 8.8694930e-04, leakri = 8.8694930e-04, leakhr = 1.4969321e-03, leakhi = 1.4969321e-03
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 0.0008869493030942976
+horleaks = (leakhr+pm*leakhi)/2*csphase = 0.0014969321200624108
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -131
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0010
+leakrr = -1.6356775e-11, leakri = -1.6356775e-11, leakhr = 1.9035292e-11, leakhi = 1.9035292e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -1.6356775309200877e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = 1.9035292439517626e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -130
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0009
+leakrr = -7.9335980e-03, leakri = -7.9335980e-03, leakhr = -1.1104783e-02, leakhi = -1.1104783e-02
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -0.007933598011732101
+horleaks = (leakhr+pm*leakhi)/2*csphase = -0.011104783043265343
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -129
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0008
+leakrr = -1.5263251e-11, leakri = -1.5263251e-11, leakhr = 5.1446668e-12, leakhi = 5.1446668e-12
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -1.5263250732755473e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = 5.144666810619203e-12
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -128
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0007
+leakrr = -9.1373001e-04, leakri = -9.1373001e-04, leakhr = -9.8005310e-04, leakhi = -9.8005310e-04
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -0.000913730007596314
+horleaks = (leakhr+pm*leakhi)/2*csphase = -0.0009800530970096588
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -127
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0006
+leakrr = 1.6934655e-11, leakri = 1.6934655e-11, leakhr = -2.4954793e-11, leakhi = -2.4954793e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 1.693465506713565e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -2.4954793440001843e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -126
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0005
+leakrr = -9.4565235e-05, leakri = -9.4565235e-05, leakhr = -5.9934919e-05, leakhi = -5.9934919e-05
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -9.456523548578843e-05
+horleaks = (leakhr+pm*leakhi)/2*csphase = -5.9934918681392446e-05
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -125
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0004
+leakrr = -8.2518888e-12, leakri = -8.2518888e-12, leakhr = -3.5505249e-12, leakhi = -3.5505249e-12
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -8.251888755639314e-12
+horleaks = (leakhr+pm*leakhi)/2*csphase = -3.550524891454687e-12
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -124
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0003
+leakrr = -9.9522458e-06, leakri = -9.9522458e-06, leakhr = -1.1089364e-06, leakhi = -1.1089364e-06
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -9.952245818567462e-06
+horleaks = (leakhr+pm*leakhi)/2*csphase = -1.108936430682661e-06
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -123
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0002
+leakrr = 3.8081517e-12, leakri = 3.8081517e-12, leakhr = 1.0732621e-11, leakhi = 1.0732621e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 3.808151710638086e-12
+horleaks = (leakhr+pm*leakhi)/2*csphase = 1.0732620521480829e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -122
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0001
+leakrr = -1.0373931e-06, leakri = -1.0373931e-06, leakhr = 5.3691815e-07, leakhi = 5.3691815e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -1.0373930763307726e-06
+horleaks = (leakhr+pm*leakhi)/2*csphase = 5.369181508285692e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0140, m = -121
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0000, abs(m)-abs(mp)+dm_mat = 0000
+leakrr = 1.4667654e-11, leakri = 1.4667654e-11, leakhr = -5.1128069e-12, leakhi = -5.1128069e-12
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 1.466765424396055e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -5.112806879259413e-12
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -141
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0020
+leakrr = 4.9288778e-09, leakri = 4.9288778e-09, leakhr = -6.5094838e-07, leakhi = -6.5094838e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 4.928877750387528e-09
+horleaks = (leakhr+pm*leakhi)/2*csphase = -6.509483796435234e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -140
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0019
+leakrr = 5.3026042e-11, leakri = 5.3026042e-11, leakhr = 2.9698910e-11, leakhi = 2.9698910e-11
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 5.3026041890724684e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = 2.969890999793279e-11
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -139
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0018
+leakrr = -8.8035875e-07, leakri = -8.8035875e-07, leakhr = 2.1254702e-07, leakhi = 2.1254702e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -8.803587547845382e-07
+horleaks = (leakhr+pm*leakhi)/2*csphase = 2.125470217606562e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -138
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0017
+leakrr = 2.4394931e-11, leakri = 2.4394931e-11, leakhr = -9.8259942e-13, leakhi = -9.8259942e-13
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 2.4394930520088565e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -9.825994184975428e-13
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -137
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0016
+leakrr = 1.5140369e-09, leakri = 1.5140369e-09, leakhr = 3.4468357e-07, leakhi = 3.4468357e-07
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 1.5140368958554973e-09
+horleaks = (leakhr+pm*leakhi)/2*csphase = 3.4468357057448884e-07
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -136
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0015
+leakrr = -1.0994757e-11, leakri = -1.0994757e-11, leakhr = -8.1077046e-12, leakhi = -8.1077046e-12
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = -1.0994757188020898e-11
+horleaks = (leakhr+pm*leakhi)/2*csphase = -8.107704611848288e-12
+====================================================================================================
+lp = 146, mp = -136, l = 0141, m = -135
+lp = 146, abs(mp) = -136, l-lp+dl_mat = 0001, abs(m)-abs(mp)+dm_mat = 0014
+leakrr = 3.1482094e-05, leakri = 3.1482094e-05, leakhr = 1.1941833e-05, leakhi = 1.1941833e-05
+csphase = 1, pm=1
+rleaks = (leakrr+pm*leakri)/2*csphase = 3.148209361825138e-05
+horleaks = (leakhr+pm*leakhi)/2*csphase = 1.1941832781303674e-05
+====================================================================================================
